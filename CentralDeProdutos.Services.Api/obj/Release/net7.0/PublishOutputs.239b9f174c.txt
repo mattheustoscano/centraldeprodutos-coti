@@ -1,0 +1,12 @@
+C:\Mattheus\Projetos\Pratice\CentralDeProdutos\CentralDeProdutos.Services.Api\obj\Docker\publish\CentralDeProdutos.Services.Api.exe
+C:\Mattheus\Projetos\Pratice\CentralDeProdutos\CentralDeProdutos.Services.Api\obj\Docker\publish\appsettings.Development.json
+C:\Mattheus\Projetos\Pratice\CentralDeProdutos\CentralDeProdutos.Services.Api\obj\Docker\publish\appsettings.json
+C:\Mattheus\Projetos\Pratice\CentralDeProdutos\CentralDeProdutos.Services.Api\obj\Docker\publish\CentralDeProdutos.Services.Api.dll
+C:\Mattheus\Projetos\Pratice\CentralDeProdutos\CentralDeProdutos.Services.Api\obj\Docker\publish\CentralDeProdutos.Services.Api.deps.json
+C:\Mattheus\Projetos\Pratice\CentralDeProdutos\CentralDeProdutos.Services.Api\obj\Docker\publish\CentralDeProdutos.Services.Api.runtimeconfig.json
+C:\Mattheus\Projetos\Pratice\CentralDeProdutos\CentralDeProdutos.Services.Api\obj\Docker\publish\CentralDeProdutos.Services.Api.pdb
+C:\Mattheus\Projetos\Pratice\CentralDeProdutos\CentralDeProdutos.Services.Api\obj\Docker\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Mattheus\Projetos\Pratice\CentralDeProdutos\CentralDeProdutos.Services.Api\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Mattheus\Projetos\Pratice\CentralDeProdutos\CentralDeProdutos.Services.Api\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Mattheus\Projetos\Pratice\CentralDeProdutos\CentralDeProdutos.Services.Api\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Mattheus\Projetos\Pratice\CentralDeProdutos\CentralDeProdutos.Services.Api\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
